@@ -1,0 +1,16 @@
+.input{
+	color: white;
+	background-color: slategrey;
+	font-size: 80px;
+	text-align: center;
+}
+.mainStyle{
+	color: white;
+	background-color: black;
+	font-size: 45px; 
+	text-align: justify;
+}
+.titlePage{
+	font-size: 145px;
+	text-align: center;
+}
